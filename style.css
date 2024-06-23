@@ -1,0 +1,106 @@
+/* style.css */
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Itim', cursive;
+}
+
+.background {
+  background-color: #f7f7f7; /* Light gray background color */
+  height: 100vh;
+  padding-top: 1px;
+}
+
+.title {
+  color: #333; /* Dark gray text color */
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10%;
+}
+
+.title label {
+  font-size: 30px;
+}
+
+.display {
+  color: #333; /* Dark gray text color */
+  font-size: 25px;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.hide {
+  display: none;
+}
+
+.container {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 33% 33% 33%;
+  max-width: 300px;
+}
+
+.tile {
+  border: none;
+  border-radius: 10px;
+  min-width: 100px;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  cursor: pointer;
+  box-shadow: -5px -5px 12px #fff,
+    5px 5px 12px rgba(0, 0, 0, .2);
+  color: #333; /* Dark gray text color */
+}
+
+.tile:active {
+  background: #ffb8b8; /* Light red background color */
+  color: #fff; /* White text color */
+  z-index: 9;
+}
+
+.playerX {
+  color: #4CAF50; /* Green text color */
+}
+
+.playerO {
+  color: #2196F3; /* Blue text color */
+}
+
+.controls {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+}
+
+.controls button {
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+  margin-left: 1em;
+  cursor: pointer;
+  box-shadow: -5px -5px 12px #fff,
+    5px 5px 12px rgba(0, 0, 0, .2);
+  font-size: 28px;
+  color: #fff; /* White text color */
+}
+
+.restart {
+  background-color: #4CAF50; /* Green button background color */
+}
+
+#reset {
+  background-color: #2196F3; /* Blue button background color */
+}
+
+#reset:active {
+  background-color: #333; /* Dark gray background color */
+  color: #fff; /* White text color */
+}
