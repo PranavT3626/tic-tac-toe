@@ -1,6 +1,6 @@
 # Tic Tac Toe by Pranav Tyagi
 
-![Tic Tac Toe](https://raw.githubusercontent.com/PranavT3626/tic-tac-toe/main/project_photo.png)
+![Tic Tac Toe](https://github.com/PranavT3626/tic-tac-toe/tree/main)
 
 Welcome to my Tic Tac Toe game! This classic game has been given a modern twist with sleek design and smooth gameplay. Challenge your friends or test your skills against the computer. Let's dive in and explore what makes this Tic Tac Toe experience unique.
 
