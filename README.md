@@ -1,5 +1,7 @@
 # Tic Tac Toe by Pranav Tyagi
 
+![Tic Tac Toe](https://raw.githubusercontent.com/PranavT3626/tic-tac-toe/main/project_photo.png)
+
 Welcome to my Tic Tac Toe game! This classic game has been given a modern twist with sleek design and smooth gameplay. Challenge your friends or test your skills against the computer. Let's dive in and explore what makes this Tic Tac Toe experience unique.
 
 ## Features
@@ -23,4 +25,4 @@ Hi, I'm Pranav Tyagi, the creator of this Tic Tac Toe game. As an avid lover of 
 
 ## Get in Touch
 
-If you have any feedback, suggestions, or just want to say hello, feel free to reach out to me at pranavtyagi3626@gmail.com. Your input is invaluable and helps me improve the game for everyone.
+If you have any feedback, suggestions, or just want to say hello, feel free to reach out to me at pranavtyagi@example.com. Your input is invaluable and helps me improve the game for everyone.
